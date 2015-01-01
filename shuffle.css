@@ -1,0 +1,26 @@
+#main {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 300px;
+	height: 120px;
+}
+#go {
+	height: 60px;
+}
+td {
+	text-align: center;
+	vertical-align: middle;
+}
+textarea {
+	overflow: auto;
+	resize: none;
+	text-align: center;
+	vertical-align: middle;
+	font-family: Georgia;
+	font-size: 16px;
+}
+input {
+	font-family: Georgia;
+	font-size: 16px
+}
